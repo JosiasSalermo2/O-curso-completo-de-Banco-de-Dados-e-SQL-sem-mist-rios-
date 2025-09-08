@@ -3,3 +3,4 @@
 ## Seção 1: Versão 3.0
 
 1. [x] 1. Sobre o curso e a didática
+2. [x] 2. Descrição do Ambiente
