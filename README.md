@@ -7,3 +7,4 @@
 3. [x] 3. Todos os Downloads
 4. [x] 4. Downloads pelo Google Drive
 5. [x] 5. Downloads
+6. [x] 6. Downloads dos Softwares
